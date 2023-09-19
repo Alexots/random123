@@ -2,10 +2,10 @@
 ## Простой рандомизатор заданий 
 
 ### В консоли:
-1)pip3 install -r req.txt 
-(jupyterlab, pandas)
-2)jupyter-lab
-3)По очереди исполняем ячейки, все интуитивно понятно
+1) pip3 install -r req.txt 
+  (jupyterlab, pandas)
+2) jupyter-lab
+3) По очереди исполняем ячейки, все интуитивно понятно
 
 ### В таблице data/data.xlsx:
 1) y или n - обязательное задание или нет
