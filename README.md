@@ -1,4 +1,6 @@
 # random123
+![image](https://github.com/Alexots/random123/assets/115954644/84f5f2f7-856f-42f2-ab85-8b2f5d518483)
+
 ## Простой рандомизатор заданий 
 
 ### В консоли:
