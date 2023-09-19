@@ -3,7 +3,6 @@
 
 ### В консоли:
 1) pip3 install -r req.txt 
-  (jupyterlab, pandas)
 2) jupyter-lab
 3) По очереди исполняем ячейки, все интуитивно понятно
 
